@@ -1,0 +1,3 @@
+﻿#txp
+
+Lightweight text expander
